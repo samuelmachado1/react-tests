@@ -8,7 +8,8 @@ exports[`Componente de saldo da conta O Snapshot do componente deve permanecer s
     Conta
   </h2>
   <p>
-    Saldo: 
+    Saldo:
+     
     <span
       class="Saldo-valor"
       data-testid="saldo-conta"
@@ -50,6 +51,7 @@ exports[`Componente de saldo da conta O Snapshot do componente deve permanecer s
     />
     <div>
       <button
+        disabled=""
         type="submit"
       >
         Realizar operação
