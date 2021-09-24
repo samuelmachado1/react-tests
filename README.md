@@ -1,4 +1,4 @@
-## 🛠️ This project was developed for the practices of the course: React: Automating tests in front-end applications
+## 🛠️ This project was developed for the practices of the course: React: Automating tests in front-end applications taught by @dudaschar - https://github.com/dudaschar
 
 ### Unit tests, integration tests, snapshot tests and some code improvement updates were implemented.
 
