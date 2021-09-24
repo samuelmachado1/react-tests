@@ -2,6 +2,7 @@ import React from "react";
 import { render, screen, fireEvent } from "@testing-library/react";
 
 import App, { calcularNovoSaldo } from "./app";
+
 // Teste de Componente -  Testando o componente <App/>
 describe("Componente principal", () => {
   describe("Quando abro o app do Banco", () => {
