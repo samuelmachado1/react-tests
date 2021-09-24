@@ -6,6 +6,8 @@ In the project directory, you can run:
 
 ### `npm run backend `
 
+in sequence:
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
